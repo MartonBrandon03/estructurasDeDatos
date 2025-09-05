@@ -1,0 +1,4 @@
+Para esta tarea se necesita declarar un arreglo,
+ademas de acceder a uno de sus elementos mediante un indice,
+recorrerlo con un ciclo y buscar un elemento.
+
