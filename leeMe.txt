@@ -1,0 +1,14 @@
+En este repositorio se subiran todas las tareas de la materia
+estructuras de datos.
+
+Los trabajos estan propuestos para ser realizados en 5 lenguajes distintos:
+
+ - C++
+ - C#
+ - Java
+ - Javascript
+ - Python
+
+Segunda mitad del 2025, tercer semestre de ingenieria en software.
+Estudiante Wilson Trasviña Martin Alfredo.
+
