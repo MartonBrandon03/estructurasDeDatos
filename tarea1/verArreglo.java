@@ -38,7 +38,7 @@ public class verArreglo {
             break;
             case "buscar":
                 if (args.length == 1) {
-                    System.out.println("Por favor imtroduzca un valor a buscar.");
+                    System.out.println("Por favor introduzca un valor a buscar.");
                 } else {
                 int indice = -1;
                 for (int i = 0; i < arreglo.length; i++) {
@@ -48,8 +48,6 @@ public class verArreglo {
                 }
                 if (indice == -1 && args.length == 2){
                         System.out.println("El valor no se encontro en el arreglo.");
-                    } else if (args.length == 1) {
-                        System.out.println("Por favor introduzca un valor a buscar.");
                     } else {
                         System.out.println("El valor se encontro en el indice " + indice + ".");
                     }

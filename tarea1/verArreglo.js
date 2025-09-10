@@ -16,7 +16,8 @@ if (process.argv.slice(2).length == 0) {
         }
         console.log("La sumatoria es: " + suma + ".")
 } else if (process.argv.slice(2)[0] == "indice" && process.argv.slice(2).length == 1 || process.argv.slice(2)[0] == "indice" && process.argv.slice(2)[1] < 1 || process.argv.slice(2)[0] == "indice" && process.argv.slice(2)[1] > arreglo.length) {
-    console.log("Indice invalido, prueba con un valor entre 1 y " + arreglo.length + ".")
+    console.log("Indice invalido") 
+    console.log("Prueba con un valor entre 1 y " + arreglo.length + ".")
 } else if (process.argv.slice(2)[0] == "indice" && process.argv.slice(2)[1] != undefined) {
     console.log("En el indice " + process.argv.slice(2)[1] + " del arreglo se encuentra el valor: " + arreglo[process.argv.slice(2)[1] - 1] + ".")
 } else if (process.argv.slice(2)[0] == "buscar") {
