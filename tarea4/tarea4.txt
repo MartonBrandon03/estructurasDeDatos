@@ -1,0 +1,4 @@
+Para esta tarea se crea una matriz cuyo contenido
+sera vaciado a un arreglo tomando elementos de la
+matriz por columnas o filas.
+
