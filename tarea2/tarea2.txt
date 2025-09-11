@@ -1,3 +1,4 @@
 Para esta tarea se necesita crear un tipo de dato
 abstracto y despues crear un arreglo del mismo.
 
+Tarea terminada 11/09/2025
