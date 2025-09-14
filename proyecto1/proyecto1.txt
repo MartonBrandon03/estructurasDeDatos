@@ -1,0 +1,4 @@
+Para este proyecto van a realizarse 2 trabajos:
+un juego de gato con JS y un juego de 4 en linea
+con c++
+
