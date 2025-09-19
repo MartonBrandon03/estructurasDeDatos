@@ -1,0 +1,3 @@
+Para esta tarea se va a implementar el algoritmo
+de ordenamiento por insercion.
+
