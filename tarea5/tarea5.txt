@@ -1,3 +1,4 @@
 Para esta tarea se va a implementar el algoritmo
 de ordenamiento por insercion.
 
+Tarea terminada 20/09/2025.
