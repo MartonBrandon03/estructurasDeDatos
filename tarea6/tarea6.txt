@@ -1,0 +1,3 @@
+Para este trabajo se va a implementar el algoritmo de
+ordenamiento por seleccion.
+
