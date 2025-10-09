@@ -1,0 +1,15 @@
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/bin/Debug/net8.0/battleship
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/bin/Debug/net8.0/battleship.deps.json
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/bin/Debug/net8.0/battleship.runtimeconfig.json
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/bin/Debug/net8.0/battleship.dll
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/bin/Debug/net8.0/battleship.pdb
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/battleship.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/battleship.AssemblyInfoInputs.cache
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/battleship.AssemblyInfo.cs
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/battleship.csproj.CoreCompileInputs.cache
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/battleship.sourcelink.json
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/battleship.dll
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/refint/battleship.dll
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/battleship.pdb
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/battleship.genruntimeconfig.cache
+/home/sonwil/EstructurasDeDatos/proyecto1/battleship/obj/Debug/net8.0/ref/battleship.dll
